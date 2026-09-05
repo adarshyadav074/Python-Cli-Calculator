@@ -14,7 +14,7 @@ def calculator():
             print(f"Multiplication of {a} and {b} is {a*b}")
 
         elif operation == "divide":
-            if b == 0:   # 👈 sirf denominator check karo
+            if b == 0:
                 print("Cannot divide by zero ❌")
             else:
                 print(f"Division of {a} by {b} is {a/b}")
