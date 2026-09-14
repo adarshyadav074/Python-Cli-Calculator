@@ -1,23 +1,23 @@
-# 🧮 Python Calculator
+# Python Calculator
 
 A simple and powerful **CLI (Command Line Interface) Calculator** built using Python.
 This project performs basic as well as advanced mathematical operations.
 
 ---
 
-## 🚀 Features
+## Features
 
-* ➕ Addition
-* ➖ Subtraction
-* ✖️ Multiplication
-* ➗ Division (with zero handling)
-* 🔼 Power (a^b)
-* 🔢 Modulus (remainder)
-* 🔁 Continuous calculation (loop system)
+* Addition
+* Subtraction
+* Multiplication
+* Division (with zero handling)
+* Power (a^b)
+* Modulus (remainder)
+* Continuous calculation (loop system)
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. User selects an operation
 2. Enters two numbers
@@ -26,7 +26,7 @@ This project performs basic as well as advanced mathematical operations.
 
 ---
 
-## ▶️ Usage
+## Usage
 
 Run the program using:
 
@@ -36,7 +36,7 @@ python calculator.py
 
 ---
 
-## 📌 Example
+## Example
 
 ```
 Enter operation: add
@@ -47,7 +47,7 @@ Output: 8
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 * Python (Core Concepts)
 * Loops
@@ -56,20 +56,6 @@ Output: 8
 
 ---
 
-## 📈 Future Improvements
-
-* Add calculation history
-* GUI version (Tkinter)
-* Error handling using try/except
-
----
-
-## 👨‍💻 Author
+## Author
 
 **Dev Kumar Ray (Adarsh Yadav)**
-
----
-
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
